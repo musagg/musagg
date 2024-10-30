@@ -1,4 +1,4 @@
-##"Hi there! 🤓 I’m Muskaan, your friendly coder-next-door, experimenting with tech and learning one bug at a time. Stick around, and let’s code something awesome!"
+Hi there! 🤓 I’m Muskaan, your friendly coder-next-door, experimenting with tech and learning one bug at a time. Stick around, and let’s code something awesome!
 <!--
 **musagg/musagg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
