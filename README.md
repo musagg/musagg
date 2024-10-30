@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hey, awesome to see you! 🎉 What’s the latest adventure in your world? Let’s dive into something fun and interesting together!</h1>
 
 
 <p>👩‍💻 Hello!</br> I'm Muskaan Aggarwal, dedicated to crafting impactful solutions through code. Check out my work! </p>
